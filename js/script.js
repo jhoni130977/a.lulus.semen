@@ -112,7 +112,7 @@ $('#movie-list1').html(``);
 											<tr><td>No. Ujian </td><td>:<b> ` + data.no + `
 											<input type=hidden name=no id=no value= ` + data.no + ` ></td></tr>						
 											<tr><td>Nama Siswa </td><td>:<b> ` + data.nama + `</td></tr>
-											<tr><td>Sekolah Asal </td><td>:<b> ` + data.sekolah + `</td></tr>
+											<tr><td>Komp. Keahlian </td><td>:<b> ` + data.sekolah + `</td></tr>
 											<tr><td>Status </td><td>:<b>
 													<select name=lulus id=lulus>
 														<option><font size=2> ` + data.ket + ` </option>
@@ -139,7 +139,7 @@ $('#movie-list1').html(``);
 											<tr><td>No. Ujian </td><td>:<b> ` + data.no + `
 											<input type=hidden name=no id=no value= ` + data.no + ` ></td></tr>						
 											<tr><td>Nama Siswa </td><td>:<b> ` + data.nama + `</td></tr>
-											<tr><td>Sekolah Asal </td><td>:<b> ` + data.sekolah + `</td></tr>
+											<tr><td>Komp. Keahlian </td><td>:<b> ` + data.sekolah + `</td></tr>
 											<tr><td>Status </td><td>:<b>
 													<select name=lulus id=lulus>
 														<option><font size=2> ` + data.ket + ` </option>
@@ -166,7 +166,7 @@ $('#movie-list1').html(``);
 											<tr><td>No. Ujian </td><td>:<b> ` + data.no + `
 											<input type=hidden name=no id=no value= ` + data.no + ` ></td></tr>						
 											<tr><td>Nama Siswa </td><td>:<b> ` + data.nama + `</td></tr>
-											<tr><td>Sekolah Asal </td><td>:<b> ` + data.sekolah + `</td></tr>
+											<tr><td>Komp. Keahlian </td><td>:<b> ` + data.sekolah + `</td></tr>
 											<tr><td>Status </td><td>:<b>
 													<select name=lulus id=lulus>
 														<option><font size=2> ` + data.ket + ` </option>
@@ -188,7 +188,7 @@ $('#movie-list1').html(``);
 											<tr><td>No. Ujian </td><td>:<b> ` + data.no + `
 											<input type=hidden name=no id=no value= ` + data.no + ` ></td></tr>						
 											<tr><td>Nama Siswa </td><td>:<b> ` + data.nama + `</td></tr>
-											<tr><td>Sekolah Asal </td><td>:<b> ` + data.sekolah + `</td></tr>
+											<tr><td>Komp. Keahlian </td><td>:<b> ` + data.sekolah + `</td></tr>
 											<tr><td>Status </td><td>:<b>
 													<select name=lulus id=lulus>
 														<option><font size=2> ` + data.ket + ` </option>
@@ -215,7 +215,7 @@ $('#movie-list1').html(``);
 											<tr><td>No. Ujian </td><td>:<b> ` + data.no + `
 											<input type=hidden name=no id=no value= ` + data.no + ` ></td></tr>						
 											<tr><td>Nama Siswa </td><td>:<b> ` + data.nama + `</td></tr>
-											<tr><td>Sekolah Asal </td><td>:<b> ` + data.sekolah + `</td></tr>
+											<tr><td>Komp. Keahlian </td><td>:<b> ` + data.sekolah + `</td></tr>
 											<tr><td>Status </td><td>:<b>
 													<select name=lulus id=lulus>
 														<option><font size=2> ` + data.ket + ` </option>
